@@ -46,7 +46,7 @@ Here are a few projects I've worked on recently:
 2. **[E-Commerce](https://github.com/sameerkhan/another-project)** - Brief description of what the project does and the technologies used.
 3. **[Portfolio](https://github.com/sameerkhan/yet-another-project)** - Brief description of what the project does and the technologies used.
 
-Check out my [repositories](https://github.com/sameerkhan?tab=repositories) for more!
+Check out my [repositories](https://github.com/LazyCodwr?tab=repositories) for more!
 
 ---
 
