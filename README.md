@@ -1,7 +1,3 @@
-Creating an attractive `README.md` for your GitHub profile is a great way to showcase your skills, projects, and personality. Here's a template you can use:
-
----
-
 # Hi there! 👋 I'm Sameer Khan
 
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a love for crafting beautiful, responsive websites and web applications. My journey in web development has been driven by a curiosity to learn, innovate, and solve problems creatively.
@@ -35,10 +31,10 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/sameerkhan](https://www.linkedin.com/in/sameerkhan)
-- **Instagram:** [instagram.com/in/sameerkhan](https://www.linkedin.com/in/sameerkhan](https://www.instagram.com/lazy_codwer/)
-- **Portfolio:** [sameerkhan.dev](https://sameerkhan.dev)
-- **Email:** sameer.khan@example.com
+- **LinkedIn:** (https://www.linkedin.com/in/sameerkhan)
+- **Instagram:** (https://www.linkedin.com/in/sameerkhan](https://www.instagram.com/lazy_codwer/)
+- **Portfolio:** (https://)
+- **Email:** khansameer84233@gmail.com
 
 ---
 
@@ -46,9 +42,9 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 Here are a few projects I've worked on recently:
 
-1. **[Project Name](https://github.com/sameerkhan/project-name)** - Brief description of what the project does and the technologies used.
-2. **[Another Project](https://github.com/sameerkhan/another-project)** - Brief description of what the project does and the technologies used.
-3. **[Yet Another Project](https://github.com/sameerkhan/yet-another-project)** - Brief description of what the project does and the technologies used.
+1. **[Yt Music Clone](https://github.com/sameerkhan/project-name)** - Brief description of what the project does and the technologies used.
+2. **[E-Commerce](https://github.com/sameerkhan/another-project)** - Brief description of what the project does and the technologies used.
+3. **[Portfolio](https://github.com/sameerkhan/yet-another-project)** - Brief description of what the project does and the technologies used.
 
 Check out my [repositories](https://github.com/sameerkhan?tab=repositories) for more!
 
@@ -63,5 +59,3 @@ _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 Feel free to explore my work, collaborate on projects, or just connect! I'm always excited to learn and grow with the community. 
 
 ---
-
-This `README.md` file is just a starting point. Feel free to customize it to better reflect your personality and professional style.
