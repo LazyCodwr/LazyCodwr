@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 - **LinkedIn:** (https://www.linkedin.com/in/sameer-khan-6784b9320/)
 - **Instagram:** (https://www.instagram.com/lazy_codwer/)
-- **Portfolio:** (https://)
+- **Portfolio:** (https://lazycodwr.github.io/Portfolio/)
 - **Email:** khansameer84233@gmail.com
 
 ---
@@ -42,9 +42,9 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 Here are a few projects I've worked on recently:
 
-1. **[Yt Music Clone](https://github.com/sameerkhan/project-name)** - Brief description of what the project does and the technologies used.
-2. **[E-Commerce](https://github.com/sameerkhan/another-project)** - Brief description of what the project does and the technologies used.
-3. **[Portfolio](https://github.com/sameerkhan/yet-another-project)** - Brief description of what the project does and the technologies used.
+1. **[Pintrest Clone](https://lazycodwr.github.io/Pintrest-Clone/)** - Brief description of what the project does and the technologies used.
+2. **[E-Commerce](https://lazycodwr.github.io/E-Commerce/)** - Brief description of what the project does and the technologies used.
+3. **[LazaRev's Clone](https://lazycodwr.github.io/LazaRev-s-Clone/)** - Brief description of what the project does and the technologies used.
 
 Check out my [repositories](https://github.com/LazyCodwr?tab=repositories) for more!
 
