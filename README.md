@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** (https://www.linkedin.com/in/sameerkhan)
-- **Instagram:** (https://www.linkedin.com/in/sameerkhan](https://www.instagram.com/lazy_codwer/)
+- **LinkedIn:** (https://www.linkedin.com/in/sameer-khan-6784b9320/)
+- **Instagram:** (https://www.instagram.com/lazy_codwer/)
 - **Portfolio:** (https://)
 - **Email:** khansameer84233@gmail.com
 
