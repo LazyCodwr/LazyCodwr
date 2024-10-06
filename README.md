@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a lo
 
 - **LinkedIn:** (https://www.linkedin.com/in/sameer-khan-6784b9320/)
 - **Instagram:** (https://www.instagram.com/lazy_codwer/)
-- **Portfolio:** (https://lazycodwr.github.io/Portfolio/)
+- **Portfolio:** (https://lazycodwr.netlify.app)
 - **Email:** khansameer84233@gmail.com
 
 ---
